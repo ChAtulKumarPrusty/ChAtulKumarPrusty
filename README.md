@@ -1,10 +1,5 @@
 # 💫 About Me:
 👋 Hi there! I'm Ch Atul Kumar Prusty – a passionate developer, tech enthusiast, and lifelong learner.<br>🚀 I love building cool projects with Python, Machine Learning, and Computer Vision.<br>🎯 Currently exploring AI, Web Development, and creative coding ideas.<br>📌 Check out my repositories and feel free to connect or collaborate!
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChAtulKumarPrusty/ChAtulKumarPrusty/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChAtulKumarPrusty/ChAtulKumarPrusty/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChAtulKumarPrusty/ChAtulKumarPrusty/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 ## 🌐 Socials:
