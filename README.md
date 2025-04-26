@@ -1,15 +1,6 @@
 # 💫 About Me:
 👋 Hi there! I'm Ch Atul Kumar Prusty – a passionate developer, tech enthusiast, and lifelong learner.<br>🚀 I love building cool projects with Python, Machine Learning, and Computer Vision.<br>🎯 Currently exploring AI, Web Development, and creative coding ideas.<br>📌 Check out my repositories and feel free to connect or collaborate!
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chatulkumarprusty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chatulprusty@gmail.com) 
 
